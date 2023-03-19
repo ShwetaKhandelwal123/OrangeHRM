@@ -1,0 +1,4 @@
+OrangeHRM - https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+This project tests OrangeHRM's main module using Maven Project in Seleniu
+It programatically retrieves data from Excel and test modules like Login.
